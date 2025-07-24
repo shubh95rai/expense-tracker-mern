@@ -33,7 +33,7 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="min-h-dvh pt-16 flex items-center justify-center px-4">
+    <div className="min-h-dvh flex items-center justify-center px-4">
       <Card className="w-full max-w-md px-4 py-8 shadow-md">
         <div className="text-center space-y-2 mb-6">
           <div className="size-12 rounded-xl bg-primary/10 flex items-center justify-center mx-auto">
